@@ -1,17 +1,19 @@
-# .gitignore
-
-# Heavy data
+cat <<EOF > .gitignore
+# Data
 *.laz
 *.tif
 *.gpkg
-!data_sample/*.tif  # exception if you want to keep 1 demo
+!data_sample/*.tif
 !data_sample/*.gpkg
 
-# Jupyter checkpoints
+# Notebooks
 .ipynb_checkpoints/
 
-# Cache and system files
+# Cache
 __pycache__/
 *.pyc
+
+# System
 .DS_Store
+EOF
 
