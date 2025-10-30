@@ -3,6 +3,7 @@ cat <<EOF > .gitignore
 *.laz
 *.tif
 *.gpkg
+data/*
 !data_sample/*.tif
 !data_sample/*.gpkg
 
