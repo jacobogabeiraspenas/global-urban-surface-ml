@@ -1,4 +1,4 @@
-# GUS-ML: Global Urban Surface Fraction from LiDAR and Land Surface Data Using Machine Learning
+# GUS-ML: Global Urban Surface from LiDAR and Land Surface Data Using Machine Learning
 
 GUS-ML is a reproducible geospatial pipeline to estimate the total building surface fraction (walls + roofs), also referred to as λ_B, using high-resolution LiDAR and open-source building footprints (OpenStreetMap and Microsoft Buildings). The method harmonizes these inputs into a global 100 m reference grid and trains a machine learning model using globally available land surface and urban datasets. This allows surface fraction estimation in regions without LiDAR, supporting better urban climate modeling and adaptation planning.
 
