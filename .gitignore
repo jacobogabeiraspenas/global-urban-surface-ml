@@ -1,7 +1,17 @@
 # .gitignore
+
+# Heavy data
+*.laz
+*.tif
+*.gpkg
+!data_sample/*.tif  # exception if you want to keep 1 demo
+!data_sample/*.gpkg
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Cache and system files
 __pycache__/
 *.pyc
-.env
-*.ipynb_checkpoints
-data_sample/*
+.DS_Store
 

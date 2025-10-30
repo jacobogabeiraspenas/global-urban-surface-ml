@@ -1,0 +1,13 @@
+[
+  {
+    "type": "readers.las",
+    "filename": "LHD_FXX_0914_6458_PTS_O_LAMB93_IGN69.copc.laz"
+  },
+  {
+    "type": "writers.las",
+    "filename": "fixed_clean.laz",
+    "forward": "none",
+    "vlrs": "none"
+  }
+]
+
