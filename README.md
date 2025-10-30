@@ -43,6 +43,8 @@ Input features:
 - Impervious surface
 - Elevation and slope (Copernicus DEM)
 
+All features were standardized and aligned to a common 100 m grid. No city-specific tuning was applied to ensure transferability.
+
 Model:  
 - Random Forest Regressor (scikit-learn)
 - Trained using Leave-One-City-Out Cross-Validation (LOCO-CV)
