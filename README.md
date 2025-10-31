@@ -98,7 +98,7 @@ Right: 100 m grid with computed λ_B (lighter = higher surface fraction)
 
 ### Comparison with LCZ-Based Estimation
 
-For reference, we compare the ML predictions against a traditional method based on Local Climate Zones (LCZs), where each LCZ type is assigned a fixed λ_B value and spatially aggregated to the 100 m grid. The figure below compares both approaches to the LiDAR-derived ground truth.
+For reference, we compare the ML predictions against a traditional method based on Local Climate Zones (LCZs) from the WUDAPT project, where each LCZ type is assigned a fixed λ_B value and spatially aggregated to the 100 m grid. The figure below compares both approaches to the LiDAR-derived ground truth.
 
 ![Validation comparison](docs/pic5.png)
 
