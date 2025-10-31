@@ -106,7 +106,7 @@ Left: LCZ-based λ_B vs LiDAR reference clipped from 0 to 2.5.
 Center: ML-predicted λ_B vs LiDAR  
 Right: Distribution of residuals (LiDAR - method)
 
-The ML model significantly outperforms the LCZ-based approach. It shows much higher agreement with the reference data (R² = 0.82 vs 0.42) and far lower bias and error spread. This confirms that data-driven estimation is more robust and better suited for heterogeneous urban environments.
+The ML model significantly outperforms the LCZ-based approach. It shows much higher agreement with the reference data (R² = 0.87 vs 0.31) and far lower bias and error spread. This confirms that data-driven estimation is more robust and better suited for heterogeneous urban environments.
 
 ---
 
