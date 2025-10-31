@@ -150,6 +150,6 @@ It uses data from:
 - Microsoft Building Footprints  
 - World Settlement Footprint 3D (DLR)  
 - Copernicus DEM  
-- LCZ Global and related datasets
+- The WUDAPT project
 
 Special thanks to the open data and Earth observation communities that made this work possible.
