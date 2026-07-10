@@ -133,7 +133,7 @@ You are free to use, adapt, and share the code for research or non-commercial pu
 ## Contact
 
 Developed by Jacobo Gabeiras  
-PhD candidate in urban climate modeling and geospatial data science  
+PhD in urban climate modeling and geospatial data science  
 Email: jacobogabeiras@gmail.com  
 GitHub: https://github.com/jacobogabeiraspenas/global-urban-surface-ml
 
