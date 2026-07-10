@@ -128,8 +128,8 @@ You are free to use, adapt, and share the code for research or non-commercial pu
 
 Developed by Jacobo Gabeiras  
 PhD candidate in urban climate modeling and geospatial data science  
-Email: gabeiras3j@gmail.com  
-GitHub: [@gabeiras3j](https://github.com/gabeiras3j)
+Email: jacobogabeiras@gmail.com  
+GitHub: https://github.com/jacobogabeiraspenas/global-urban-surface-ml
 
 ---
 
@@ -137,7 +137,7 @@ GitHub: [@gabeiras3j](https://github.com/gabeiras3j)
 
 If you use this work, please cite:
 
-> Gabeiras, J. (2025). GUS-ML: Estimating Urban Surface Fraction from LiDAR and Global Data Using Machine Learning. *GitHub Repository*. https://github.com/gabeiras3j/urban-surface-ml
+> Gabeiras, J. (2025). GUS-ML: Estimating Urban Surface Fraction from LiDAR and Global Data Using Machine Learning. *GitHub Repository*. https://github.com/jacobogabeiraspenas/global-urban-surface-ml
 
 ---
 
