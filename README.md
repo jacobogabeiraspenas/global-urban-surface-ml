@@ -2,8 +2,6 @@
 
 GUS-ML is a reproducible geospatial pipeline to estimate the total building surface fraction (walls + roofs), also referred to as λ_B, using high-resolution LiDAR and open-source building footprints (OpenStreetMap and Microsoft Buildings). The method harmonizes these inputs into a global 100 m reference grid and trains a machine learning model using globally available land surface and urban datasets. This allows surface fraction estimation in regions without LiDAR, supporting better urban climate modeling and adaptation planning.
 
-This pipeline was developed as part of an ESA AI4EO application on climate adaptation and Earth observation.
-
 ## Motivation
 
 The total building surface area (walls + roofs) within each grid cell is a key parameter for urban climate models such as WRF, PALM, and TEB. It directly influences energy balance through heat storage, albedo, emissivity, and surface conductance. However, current methods estimate this parameter using Local Climate Zones (LCZs), which fail to capture fine-scale urban heterogeneity.
